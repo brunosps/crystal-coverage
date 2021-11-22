@@ -1,4 +1,5 @@
 require "option_parser"
+
 # require "tempfile"
 
 module Coverage
